@@ -25,6 +25,12 @@
 [17 进程和线程：进程的开销比线程大在了哪里？ (lianglianglee.com)](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E9%87%8D%E5%AD%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E5%AE%8C/17%20%20%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B%EF%BC%9A%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%BC%80%E9%94%80%E6%AF%94%E7%BA%BF%E7%A8%8B%E5%A4%A7%E5%9C%A8%E4%BA%86%E5%93%AA%E9%87%8C%EF%BC%9F.md)
 
 ## 进程上下文切换
+[进程上下文切换讲解_1](https://www.bilibili.com/video/BV1CV411v7NW/?spm_id_from=333.788.recommend_more_video.0&vd_source=1b73846804f44008716a3e40edd6b32d)
+
+[进程上下文切换讲解_2](https://www.bilibili.com/video/BV12U4y1p7n3/?spm_id_from=333.788.recommend_more_video.0&vd_source=1b73846804f44008716a3e40edd6b32d)
+
+[进程上下文切换讲解_3（总结）](https://www.bilibili.com/video/BV1GA411T7qU/?spm_id_from=333.788.recommend_more_video.0&vd_source=1b73846804f44008716a3e40edd6b32d)
+
 [深入理解Linux内核进程上下文切换-腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1710837)
 
 [上下文切换开销 · GitBook (hitzhangjie.pro)](https://www.hitzhangjie.pro/libmill-book/basics/context-switching-cost.html)

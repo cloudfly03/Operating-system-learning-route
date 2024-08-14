@@ -49,8 +49,6 @@
 ## 进程间通信
 [5.2 进程间有哪些通信方式？ | 小林coding (xiaolincoding.com)](https://xiaolincoding.com/os/4_process/process_commu.html)
 
-[14｜调度算法：操作系统中的进程是如何调度的？.md | Leon406资源站](http://121.43.36.222:5244/%E8%B5%84%E6%BA%90/14-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E4%B8%93%E6%A0%8F%E8%AF%BE/179%E4%B8%9A%E5%8A%A1%E5%BC%80%E5%8F%91%E7%AE%97%E6%B3%9550%E8%AE%B2/14%EF%BD%9C%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95%EF%BC%9A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E8%BF%9B%E7%A8%8B%E6%98%AF%E5%A6%82%E4%BD%95%E8%B0%83%E5%BA%A6%E7%9A%84%EF%BC%9F.md)
-
 ## 僵尸进程、孤儿进程、守护进程
 [孤儿进程与僵尸进程[总结] - Rabbit_Dale - 博客园 (cnblogs.com)](https://www.cnblogs.com/anker/p/3271773.html)
 
@@ -59,6 +57,8 @@
 [Linux 之守护进程、僵死进程与孤儿进程 | LiuYongbin (liubigbin.github.io)](https://liubigbin.github.io/2016/03/11/Linux-%E4%B9%8B%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B%E3%80%81%E5%83%B5%E6%AD%BB%E8%BF%9B%E7%A8%8B%E4%B8%8E%E5%AD%A4%E5%84%BF%E8%BF%9B%E7%A8%8B/)
 
 ## 进程与线程调度算法
+[14｜调度算法：操作系统中的进程是如何调度的？.md | Leon406资源站](http://121.43.36.222:5244/%E8%B5%84%E6%BA%90/14-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/%E4%B8%93%E6%A0%8F%E8%AF%BE/179%E4%B8%9A%E5%8A%A1%E5%BC%80%E5%8F%91%E7%AE%97%E6%B3%9550%E8%AE%B2/14%EF%BD%9C%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95%EF%BC%9A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E8%BF%9B%E7%A8%8B%E6%98%AF%E5%A6%82%E4%BD%95%E8%B0%83%E5%BA%A6%E7%9A%84%EF%BC%9F.md)
+
 [20 线程的调度：线程调度都有哪些方法？ (lianglianglee.com)](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E9%87%8D%E5%AD%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E5%AE%8C/20%20%20%E7%BA%BF%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%EF%BC%9A%E7%BA%BF%E7%A8%8B%E8%B0%83%E5%BA%A6%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E6%B3%95%EF%BC%9F.md)
 
 ## 多线程

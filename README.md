@@ -98,9 +98,9 @@
 ## mmp
 [Linux系统mmap内存映射机制原理_mmap 多进程读写流程-CSDN博客](https://blog.csdn.net/wmq880204/article/details/115163244)
 
-[Linux 中 mmap() 函数的内存映射问题理解？ - 知乎 (zhihu.com)](https://link.csdn.net/?target=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F48161206)
+[Linux 中 mmap() 函数的内存映射问题理解？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/48161206)
 
-[微信公众平台 (qq.com)](https://link.csdn.net/?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsLoiOevTxIonrgLa7yWJkw)
+[微信公众平台 (qq.com)](https://mp.weixin.qq.com/s/sLoiOevTxIonrgLa7yWJkw)
 
 # 文件系统
 ## 预读失效和缓存污染

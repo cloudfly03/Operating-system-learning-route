@@ -104,45 +104,45 @@
 
 # 文件系统
 ## 预读失效和缓存污染
-[4.5 如何避免预读失效和缓存污染的问题？ | 小林coding (xiaolincoding.com)](https://link.csdn.net/?target=https%3A%2F%2Fxiaolincoding.com%2Fos%2F3_memory%2Fcache_lru.html)
+[4.5 如何避免预读失效和缓存污染的问题？ | 小林coding (xiaolincoding.com)](https://xiaolincoding.com/os/3_memory/cache_lru.html)
 
 ## Pachage
 [7.2 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？ | 小林coding (xiaolincoding.com)](https://xiaolincoding.com/os/6_file_system/pagecache.html)
 
 # I/O系统
 ## 零拷贝
-[9.1 什么是零拷贝？ | 小林coding (xiaolincoding.com)](https://link.csdn.net/?target=https%3A%2F%2Fxiaolincoding.com%2Fos%2F8_network_system%2Fzero_copy.html)
+[9.1 什么是零拷贝？ | 小林coding (xiaolincoding.com)](https://xiaolincoding.com/os/8_network_system/zero_copy.html)
 
 ## 五大I/O模型
 [100%弄明白5种IO模型 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/115912936)
 
-[​网络 IO 演变发展过程和模型介绍 (qq.com)](https://link.csdn.net/?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEDzFOo3gcivOe_RgipkTkQ)
+[​网络 IO 演变发展过程和模型介绍 (qq.com)](https://mp.weixin.qq.com/s/EDzFOo3gcivOe_RgipkTkQ)
 
 ## I/O多路复用
-[9.2 I/O 多路复用：select/poll/epoll | 小林coding (xiaolincoding.com)](https://link.csdn.net/?target=https%3A%2F%2Fxiaolincoding.com%2Fos%2F8_network_system%2Fselete_poll_epoll.html)
+[9.2 I/O 多路复用：select/poll/epoll | 小林coding (xiaolincoding.com)](https://xiaolincoding.com/os/8_network_system/selete_poll_epoll.html)
 
-[你管这破玩意叫 IO 多路复用？-电子工程专辑 (eet-china.com)](https://link.csdn.net/?target=https%3A%2F%2Fwww.eet-china.com%2Fmp%2Fa93867.html)
+[你管这破玩意叫 IO 多路复用？-电子工程专辑 (eet-china.com)](https://www.eet-china.com/mp/a93867.html)
 
-[select - 彻底搞懂IO多路复用 - 个人文章 - SegmentFault 思否](https://link.csdn.net/?target=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000043369626)
+[select - 彻底搞懂IO多路复用 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000043369626)
 
-[select poll epoll之间该如何决择 (cxd2014.github.io)](https://link.csdn.net/?target=https%3A%2F%2Fcxd2014.github.io%2F2018%2F01%2F10%2Fepoll%2F)
+[select poll epoll之间该如何决择 (cxd2014.github.io)](https://cxd2014.github.io/2018/01/10/epoll/)
 
-[Epoll在LT和ET模式下的读写方式 – 平凡的世界 (kimi.pub)](https://link.csdn.net/?target=https%3A%2F%2Fkimi.pub%2F515.html)
+[Epoll在LT和ET模式下的读写方式 – 平凡的世界 (kimi.pub)](https://kimi.pub/515.html)
 
-[Epoll之ET、LT模式 | 第七根弦的技术博客 (junzimu.com)](https://link.csdn.net/?target=https%3A%2F%2Flove.junzimu.com%2Farchives%2F2109)
+[Epoll之ET、LT模式 | 第七根弦的技术博客 (junzimu.com)](https://love.junzimu.com/archives/2109)
 
 
 ## Reator网络模型
-[9.3 高性能网络模式：Reactor 和 Proactor | 小林coding (xiaolincoding.com)](https://link.csdn.net/?target=https%3A%2F%2Fxiaolincoding.com%2Fos%2F8_network_system%2Freactor.html)
+[9.3 高性能网络模式：Reactor 和 Proactor | 小林coding (xiaolincoding.com)](https://xiaolincoding.com/os/8_network_system/reactor.html)
 
 # Linux命令
 ## Linux目录结构
-[29 Linux 下的各个目录有什么作用？ (lianglianglee.com)](https://link.csdn.net/?target=https%3A%2F%2Flearn.lianglianglee.com%2F%25E4%25B8%2593%25E6%25A0%258F%2F%25E9%2587%258D%25E5%25AD%25A6%25E6%2593%258D%25E4%25BD%259C%25E7%25B3%25BB%25E7%25BB%259F-%25E5%25AE%258C%2F29%2520%2520Linux%2520%25E4%25B8%258B%25E7%259A%2584%25E5%2590%2584%25E4%25B8%25AA%25E7%259B%25AE%25E5%25BD%2595%25E6%259C%2589%25E4%25BB%2580%25E4%25B9%2588%25E4%25BD%259C%25E7%2594%25A8%25EF%25BC%259F.md)
+[29 Linux 下的各个目录有什么作用？ (lianglianglee.com)](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E9%87%8D%E5%AD%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E5%AE%8C/29%20%20Linux%20%E4%B8%8B%E7%9A%84%E5%90%84%E4%B8%AA%E7%9B%AE%E5%BD%95%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8%EF%BC%9F.md)
 
 ## 查看CPU、内存、进程、磁盘相关的命令
-[微信公众平台 (qq.com)](https://link.csdn.net/?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpgPCgnv3VrzpUtauz0okSg)
+[微信公众平台 (qq.com)](https://mp.weixin.qq.com/s/pgPCgnv3VrzpUtauz0okSg)
 
 ## CPU占用100%的场景
-[技术|如何在 Linux 中找出 CPU 占用高的进程](https://link.csdn.net/?target=https%3A%2F%2Flinux.cn%2Farticle-11678-1.html)
+[技术|如何在 Linux 中找出 CPU 占用高的进程](https://linux.cn/article-11678-1.html)
 
-[线上cpu使用率100%如何排查-腾讯云开发者社区-腾讯云 (tencent.com)](https://link.csdn.net/?target=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F2142464)
+[线上cpu使用率100%如何排查-腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/2142464)

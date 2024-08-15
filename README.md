@@ -93,7 +93,7 @@
 [26 缓存置换算法： LRU 用什么数据结构实现更合理？ (lianglianglee.com)](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E9%87%8D%E5%AD%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E5%AE%8C/26%20%20%E7%BC%93%E5%AD%98%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95%EF%BC%9A%20LRU%20%E7%94%A8%E4%BB%80%E4%B9%88%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AE%9E%E7%8E%B0%E6%9B%B4%E5%90%88%E7%90%86%EF%BC%9F.md)
 
 ## 写时复制
-[linux-kernel - Linux 写时复制机制原理 - 个人文章 - SegmentFault 思否](https://link.csdn.net/?target=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000039869422)
+[linux-kernel - Linux 写时复制机制原理 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000039869422)
 
 ## mmp
 [Linux系统mmap内存映射机制原理_mmap 多进程读写流程-CSDN博客](https://blog.csdn.net/wmq880204/article/details/115163244)

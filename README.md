@@ -95,7 +95,7 @@
 ## 写时复制
 [linux-kernel - Linux 写时复制机制原理 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000039869422)
 
-## mmp
+## mmap
 [Linux系统mmap内存映射机制原理_mmap 多进程读写流程-CSDN博客](https://blog.csdn.net/wmq880204/article/details/115163244)
 
 [Linux 中 mmap() 函数的内存映射问题理解？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/48161206)
